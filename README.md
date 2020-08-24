@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with .. My first IT role
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... krystiankunowski.com
-- ⚡ Fun fact: ...  I like to sing under shower
+- ⚡ Fun fact: ...  I like to sing under the shower
 -->
