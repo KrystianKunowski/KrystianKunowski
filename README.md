@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying ... Computer Systems Management
-- 🌱 I’m currently learning ... AWS,JS,Angular and C#
+- 🌱 I’m currently learning ... AWS, JS, Angular and C#
 - 👯 I’m looking to collaborate on ... AWS
 - 🤔 I’m looking for help with .. My first IT role
 - 💬 Ask me about ... anything
