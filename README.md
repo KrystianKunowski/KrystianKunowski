@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying ... Computer Systems Management
 - 🌱 I’m currently learning ... AWS, JS, Angular and C#
 - 👯 I’m looking to collaborate on ... AWS
-- 🤔 I’m looking for help with .. My first IT role
+- 🤔 I’m looking for help with ... First IT role
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... krystiankunowski.com
 - ⚡ Fun fact: ...  I like to sing under the shower
